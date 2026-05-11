@@ -1,2 +1,2 @@
-# BigData_Clound_DE25_Rikard_Oledal
+# Repro for Cloud and Big Data Course
 Big Data and Clound course at  STI
